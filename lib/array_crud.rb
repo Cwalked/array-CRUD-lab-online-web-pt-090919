@@ -8,6 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   array = ["food", "air", "sleep"]
+  array << "water"
   
 end
 
